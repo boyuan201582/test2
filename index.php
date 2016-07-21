@@ -10,5 +10,10 @@ echo 'branch';
 echo 'master';
 
 echo 'zwmerge';
+$aa = array('aa','bb','cc');
+
+foreach($aa as $key=>$value){
+    echo $value;
+}
 
 
