@@ -6,4 +6,5 @@ echo 'four';
 echo 'five';
 echo 'six';
 echo 'branch';
+echo 'master';
 
